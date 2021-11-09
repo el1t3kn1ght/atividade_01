@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     Text(
-      'Eai fml',
+      'Pedro Leal',
       textDirection: TextDirection.ltr,
     ),
   );
